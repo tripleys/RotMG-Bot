@@ -1,0 +1,96 @@
+﻿{
+  "ServerData": {
+    "USNorthWest": {
+      "Host": "54.234.151.78",
+      "Port": 2050
+    },
+    "EUWest2": {
+      "Host": "34.243.37.98",
+      "Port": 2050
+    },
+    "USMidWest2": {
+      "Host": "18.218.255.91",
+      "Port": 2050
+    },
+    "EUEast": {
+      "Host": "18.195.167.79",
+      "Port": 2050
+    },
+    "USSouthWest": {
+      "Host": "54.183.179.205",
+      "Port": 2050
+    },
+    "EUSouth": {
+      "Host": "52.47.150.186",
+      "Port": 2050
+    },
+    "USEast": {
+      "Host": "52.23.232.42",
+      "Port": 2050
+    },
+    "USMidWest": {
+      "Host": "18.220.226.127",
+      "Port": 2050
+    },
+    "USWest2": {
+      "Host": "54.215.251.128",
+      "Port": 2050
+    },
+    "EUWest": {
+      "Host": "52.47.149.74",
+      "Port": 2050
+    },
+    "AsiaSouthEast": {
+      "Host": "52.77.221.237",
+      "Port": 2050
+    },
+    "EUSouthWest": {
+      "Host": "52.47.178.13",
+      "Port": 2050
+    },
+    "USWest": {
+      "Host": "13.57.254.131",
+      "Port": 2050
+    },
+    "USWest3": {
+      "Host": "54.67.119.179",
+      "Port": 2050
+    },
+    "EUNorth": {
+      "Host": "54.93.78.148",
+      "Port": 2050
+    },
+    "EUNorth2": {
+      "Host": "52.59.198.155",
+      "Port": 2050
+    },
+    "USSouth": {
+      "Host": "52.91.68.60",
+      "Port": 2050
+    },
+    "USEast3": {
+      "Host": "54.157.6.58",
+      "Port": 2050
+    },
+    "USEast2": {
+      "Host": "52.91.203.118",
+      "Port": 2050
+    },
+    "AsiaEast": {
+      "Host": "54.199.197.208",
+      "Port": 2050
+    },
+    "USSouth3": {
+      "Host": "13.57.182.96",
+      "Port": 2050
+    },
+    "Australia": {
+      "Host": "54.252.165.65",
+      "Port": 2050
+    },
+    "USSouth2": {
+      "Host": "54.183.236.213",
+      "Port": 2050
+    }
+  }
+}

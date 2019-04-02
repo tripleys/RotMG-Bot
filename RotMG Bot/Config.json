@@ -1,0 +1,16 @@
+﻿
+{
+  "BuildVersion": "X31.5.0",
+  "ReconnectDelay": 2000,
+  "Accounts": [
+    {
+      "Email": "",
+      "Password": "",
+      "Server": "EUNorth",
+      "CharId": 2
+    }
+  ],
+  "Plugins": [
+    "PlayerTracker"
+  ]
+}
